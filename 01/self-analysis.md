@@ -14,6 +14,7 @@
 - JavaScript
 - SQL
 - JavaFX
+- XML
 
 　　　　　　　　
 ## (A-2) これまで作成したプログラム（5つ以上）
